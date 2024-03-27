@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mariomngig/mariomngig/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mariomngig/mariomngig/snake.svg" alt="Snake animation" />
 
 ###
